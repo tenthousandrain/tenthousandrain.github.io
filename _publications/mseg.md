@@ -1,7 +1,7 @@
 ---
 title: "MSeg-SLAM: A Semantic Visual SLAM System for Dynamic Scenes "
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/mseg
 excerpt: 'This paper is about the semantic visual SLAM.'
 date: 2023-10-27
