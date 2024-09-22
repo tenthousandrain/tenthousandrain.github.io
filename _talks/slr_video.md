@@ -8,4 +8,4 @@ date: 2024-06-01
 location: "Tsinghua University, Beijing"
 ---
 
-[More information here](http://exampleurl.com)
+[More information here](https://11chens.github.io/SLR/)
