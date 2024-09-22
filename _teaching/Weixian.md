@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant for Machine Learning and Intelligent Robotics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Weixian
