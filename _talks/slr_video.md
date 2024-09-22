@@ -8,4 +8,11 @@ date: 2024-06-01
 location: "Tsinghua University, Beijing"
 ---
 
+Here is the video of the quadruped robot navigating through complex outdoor environments.
+
+<video width="640" height="360" controls>
+  <source src="https://github.com/tenthousandrain/tenthousandrain.github.io/tree/master/images/slr.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 [More information here](https://11chens.github.io/SLR/)
