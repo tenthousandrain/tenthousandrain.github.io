@@ -9,7 +9,10 @@ redirect_from:
 
 About me
 ------
-I am a third-year master’s student at Tsinghua University, with research interests in autonomous control and navigation for robotics. 
+I am a third-year master’s student at Tsinghua University.
+
+My research interest includes autonomous control and navigation for robotics. 
+
 I'm very fortunate to be advised by [Prof.Dr.Zhangchun](https://www.sic.tsinghua.edu.cn/en/info/1086/1470.htm) from the School of Intergrated Circuits,Tsinghua University.
 ------
 
