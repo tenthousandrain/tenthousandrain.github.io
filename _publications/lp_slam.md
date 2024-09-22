@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/lp_slam
 excerpt: 'This paper is about the LLM employed in SLAM systems.'
 date: 2024-4-30
-venue: 'Complex \& Intelligent Systems1'
+venue: 'Complex \& Intelligent Systems'
 paperurl: 'https://link.springer.com/article/10.1007/s40747-024-01408-0'
 ---
 
