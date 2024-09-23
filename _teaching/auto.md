@@ -9,11 +9,6 @@ date: 2024-07-22
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Course Overview
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+Electronic Technology Course Design is a comprehensive practical training course offered in the summer, utilizing a project-based teaching method. The course involves the comprehensive application of knowledge in digital and analog circuits to design and create a small electronic system. Students will engage in practical exercises that cover the analysis of the system's functional and performance requirements, selection of solutions, circuit design, comprehensive simulation, circuit installation and debugging, and report writing. The course aims to cultivate students' innovative thinking and teamwork skills during the topic selection and implementation phases.
