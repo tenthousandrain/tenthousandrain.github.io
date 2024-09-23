@@ -1,8 +1,9 @@
 ---
 title: "Quadruped Robots Traverse through Tough and Complex Environments"
 collection: talks
+type: "Outdoor Experiments"
 permalink: /talks/slr_video
-venue: "Outdoor Experiments"
+venue: "Unitree Go2"
 date: 2024-06-01
 location: "Tsinghua University, Beijing"
 ---
