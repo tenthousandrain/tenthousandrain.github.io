@@ -11,7 +11,7 @@ location: "Tsinghua University, Beijing"
 Here is the video of the quadruped robot navigating through complex outdoor environments.
 
 <video width="640" height="360" controls>
-  <source src="https://github.com/tenthousandrain/tenthousandrain.github.io/blob/master/images/slr.mp4" type="video/mp4">
+  <source src="https://tenthousandrain.github.io/images/slr.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
