@@ -9,4 +9,15 @@ venue: 'Complex \& Intelligent Systems'
 paperurl: 'https://tenthousandrain.github.io/files/lp_slam.pdf'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Abstract
+---
+With the development of deep learning, a higher level of perception of the environment such as the semantic level can be
+achieved in the simultaneous localization and mapping (SLAM) domain. However, previous works did not achieve a naturallanguage level of perception. Therefore, LP-SLAM (Language-Perceptive RGB-D SLAM) is proposed that leverages large
+language models (LLMs). The texts in the scene can be detected by scene text recognition (STR) and mapped as landmarks
+with a task-driven selection. A text error correction chain (TECC) is designed with a similarity classification method, a
+two-stage memory strategy, and a text clustering method. The proposed architecture is designed to deal with the mis-detection
+and mis-recognition cases of STR and to provide accurate text information to the framework. The proposed framework takes
+input images and generates a 3D map with sparse point cloud and task-related texts. Finally, a natural user interface (NUI)
+is designed based on the constructed map and LLM, which gives position instructions based on users’ natural queries. The
+experimental results validated the proposed TECC design and the overall framework. We publish the virtual dataset with
+ground truth, as well as the source code for further research. https://github.com/GroupOfLPSLAM/LP_SLAM
