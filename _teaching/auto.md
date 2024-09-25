@@ -7,7 +7,6 @@ venue: "Tsinghua University, Department of Automation"
 date: 2024-07-22
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
 Course Overview
 ======
